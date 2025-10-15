@@ -33,7 +33,7 @@ client.on('ready', async () => {
  .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1390953842140647486/1425475773099278377/Hosting.gif?ex=68ec5684&is=68eb0504&hm=904d887b756cd8d3ca74ea1407b278292865e81681164b387a89dbe82d61fbe5&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('Rank - Conqueror') //Text when you hover the Large image
 
-.setAssetsSmallImage(' ') //You can put links in tenor or discord and etc.
+ .setAssetsSmallImage(' ') //You can put links in tenor or discord and etc.
     .setAssetsSmallText(' ') //Text when you hover the Small image
     
     .addButton('My Website', 'https://quencode.my.id')
